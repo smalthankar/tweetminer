@@ -1,8 +1,8 @@
 [<img src="https://img.shields.io/travis/playframework/play-java-starter-example.svg"/>](https://travis-ci.org/playframework/play-java-starter-example)
 
-# play-java-starter-example
+# TweetMiner
 
-This is a starter application that shows how Play works.  Please see the documentation at https://www.playframework.com/documentation/latest/Home for more details.
+
 
 ## Running
 
